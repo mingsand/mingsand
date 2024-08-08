@@ -7,5 +7,9 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
+ <details>
+    <summary>현제 목표</summary>
+    무료 도메인 구해서 사이트 만들기
+ </details>
 
   
