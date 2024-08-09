@@ -6,6 +6,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
  <details>
     <summary>현제 목표</summary>
