@@ -11,7 +11,7 @@
 
  <details>
     <summary>현제 목표</summary>
-    개쩌는 사이트 만들기
+    돈 벌기 😎
  </details>
 
   
