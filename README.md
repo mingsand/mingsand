@@ -8,10 +8,11 @@
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
  <details>
     <summary>현제 목표</summary>
-    돈 벌기 😎
+    😎✌️🤐
  </details>
 
   
