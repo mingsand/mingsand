@@ -11,7 +11,7 @@
 
  <details>
     <summary>현제 목표</summary>
-    무료 도메인 구해서 진짜 사이트 만들기
+    개쩌는 사이트 만들기
  </details>
 
   
